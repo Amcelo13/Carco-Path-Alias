@@ -1,5 +1,5 @@
 # Node Cluster Module for load balancing
-Everything done in clusterModule.js
+Everything done in clusterFile.js
 
 # Craco Path Alias
 1.Firstly install the required packages for craco <br/>
